@@ -1,19 +1,26 @@
 body{
 	direction: rtl;
-	margin: 0 auto;
+
 }
 
 
 .nav{
 position: absolute;
-top:0;
-right: 0;
+top:8px;
+right: 8px;
 width:150px;
 background-color: #669999;
+font-family: Tahoma;
 	
 }
 
+li,a{
+	padding: 10px;
+	color: #ffffff;
+}
+
 section{
-	margin-right: 150px;
+	margin-right: 160px;
 	background-color: #999966;
+	width: 500px;
 }
