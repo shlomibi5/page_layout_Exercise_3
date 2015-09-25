@@ -1,0 +1,15 @@
+body{
+	direction: rtl;
+}
+
+
+.nav{
+position: fixed;
+top:0;
+right: 0;
+	
+}
+
+section{
+	margin-top: 200px;
+}
