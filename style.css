@@ -7,9 +7,11 @@ body{
 position: fixed;
 top:0;
 right: 0;
+width:150px;
+background-color: #669999;
 	
 }
 
 section{
-	margin-top: 200px;
+	margin-right: 200px;
 }
